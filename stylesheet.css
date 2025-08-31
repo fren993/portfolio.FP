@@ -10,6 +10,10 @@ h1{
 
 }
 
+a{
+  background-color:#e7cde1;
+}
+
 /*this is the code for the navbar*/
 .topnav a {
   float: left;
