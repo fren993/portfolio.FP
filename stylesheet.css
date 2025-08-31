@@ -14,7 +14,7 @@ h1{
 
 /*this is the code for the navbar*/
 .topnav a {
-  float: left;
+  float: right;
   color: #e7cde1;
   text-align: center;
   padding: 14px 16px;
@@ -22,6 +22,9 @@ h1{
   font-size: 17px;
   background-color: #976597;
  border-width: 30px;
+  font-family: 'Oswald';
+  font-style: normal;
+
 }
 
 .topnav a:hover {
