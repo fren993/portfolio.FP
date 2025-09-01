@@ -19,7 +19,9 @@ ul{
   
 }
 
-
+br{
+  background-color: #46151B;
+}
 
 /*this is the code for the navbar*/
 .topnav a {
