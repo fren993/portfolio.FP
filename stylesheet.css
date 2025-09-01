@@ -19,6 +19,17 @@ ul{
   
 }
 
+.banner{
+    /* Set a specific height */
+  height: 50%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 /*this is the code for the navbar*/
 .topnav a {
   float: right;
