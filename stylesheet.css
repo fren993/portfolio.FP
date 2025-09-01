@@ -9,9 +9,12 @@ h1{
   font-size: 60px;
 }
 
+ul{
+  list-style-type: none;
+}
 .container{
   font-size: medium;
-  list-style-type: none;
+  
 }
 
 /*this is the code for the navbar*/
