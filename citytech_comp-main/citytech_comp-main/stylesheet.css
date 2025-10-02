@@ -1,0 +1,54 @@
+body{
+  background-color: #f5d7ef;
+  font-family: "Sour Gummy", sans-serif;
+  height:auto;
+  width:auto;
+  text-decoration-color:#5f1f4a;
+}h2{
+  color: #5f1f4a;
+  text-align: center;
+}
+
+h1{
+    color: #5f1f4a;
+  text-align: center;
+}
+h3{
+    color: #5f1f4a;
+  text-align: center;
+}
+h4{  color: #5f1f4a;text-align: center;}
+p{text-align: center;}
+
+.header{
+ display: flex;
+  text-align: left;
+  text-wrap: column;
+ 
+}
+
+ul{
+  list-style-type: none;
+  padding: 0%;
+  margin: 0%;
+  text-align: center;
+}
+li{
+ display: inline;
+} 
+ul {
+  border: 1px solid #70284c;
+  background-color: #f4aae6;
+}
+
+li a {
+  color: #5f1f4a;
+  background-color: pink;
+}
+
+a:hover{
+  background-color: #e787c7;
+}
+hr{
+  color:#5f1f4a;
+}
